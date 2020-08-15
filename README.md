@@ -15,12 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 ### Hi there 👋, I'm Anna
 #### Thanks for finding me here!
-![Thanks for finding me here!](nikolai-chernichenko-LSuIc8Riv9I-unsplash)
-
-Boy, is coding a hoot. Learning more each and every day.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
