@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, I'm Anna
+#### Thanks for finding me here!
+![Thanks for finding me here!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+Boy, is coding a hoot. Learning more each and every day.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
