@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 ![Hello](https://dev-to-uploads.s3.amazonaws.com/i/kwmshv5kgl9kctnwjzb9.jpg)
 ## Thanks for finding me here!
 
-- <script src="https://gist.github.com/benhalpern/eff81b17359acafd17849146549b9291.js"></script> Head over to [DEV](https://dev.to/annawijetunga) for some light reading.
+- Head over to [DEV](https://dev.to/annawijetunga) for some light reading.
 - Look below at my pinned projects to see some creations.
