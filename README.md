@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AnnaWijetunga/AnnaWijetunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-### Hi there 👋, I'm Anna
+![Hello](https://dev-to-uploads.s3.amazonaws.com/i/dkytjvh0bs1wyl8lxfne.jpg)
 #### Thanks for finding me here!
