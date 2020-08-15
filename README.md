@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Hello](https://dev-to-uploads.s3.amazonaws.com/i/dkytjvh0bs1wyl8lxfne.jpg)
+![Hello](https://dev-to-uploads.s3.amazonaws.com/i/kwmshv5kgl9kctnwjzb9.jpg)
 #### Thanks for finding me here!
