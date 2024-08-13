@@ -1,7 +1,7 @@
 <!--
 **AnnaWijetunga/AnnaWijetunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## Thanks for finding me here!
+## 👋 Hi there, thanks for finding me here.
 
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about managing high performing teams!
